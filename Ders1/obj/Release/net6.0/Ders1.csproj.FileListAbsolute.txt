@@ -1,0 +1,15 @@
+D:\C#\Ders1\Ders1\bin\Release\net6.0\Ders1.exe
+D:\C#\Ders1\Ders1\bin\Release\net6.0\Ders1.deps.json
+D:\C#\Ders1\Ders1\bin\Release\net6.0\Ders1.runtimeconfig.json
+D:\C#\Ders1\Ders1\bin\Release\net6.0\Ders1.dll
+D:\C#\Ders1\Ders1\bin\Release\net6.0\Ders1.pdb
+D:\C#\Ders1\Ders1\obj\Release\net6.0\Ders1.csproj.AssemblyReference.cache
+D:\C#\Ders1\Ders1\obj\Release\net6.0\Ders1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Ders1\Ders1\obj\Release\net6.0\Ders1.AssemblyInfoInputs.cache
+D:\C#\Ders1\Ders1\obj\Release\net6.0\Ders1.AssemblyInfo.cs
+D:\C#\Ders1\Ders1\obj\Release\net6.0\Ders1.csproj.CoreCompileInputs.cache
+D:\C#\Ders1\Ders1\obj\Release\net6.0\Ders1.dll
+D:\C#\Ders1\Ders1\obj\Release\net6.0\refint\Ders1.dll
+D:\C#\Ders1\Ders1\obj\Release\net6.0\Ders1.pdb
+D:\C#\Ders1\Ders1\obj\Release\net6.0\Ders1.genruntimeconfig.cache
+D:\C#\Ders1\Ders1\obj\Release\net6.0\ref\Ders1.dll
